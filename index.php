@@ -63,6 +63,7 @@
           return (full[2] == "Ecomm") 
                     ? new Date(date).toDateString()
                     : "N/A" ;
+        // if 3rd column contains Ecomm then display date else display N/A
       }  
   }]
 
