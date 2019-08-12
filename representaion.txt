@@ -1,0 +1,8 @@
+n – Variable represents a node.
+o – Variable represents an object.
+a – Variable represents an array.
+s – variable is a string.
+b – Boolean
+f – Float
+i – Variable holds an integer value.
+fn – Variable represents a function.
